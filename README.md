@@ -32,6 +32,8 @@ We are tasked by a consortium of investors to evaluate favourable real estate in
 - **7 Data Visualization**
   - 7.1 Plot Visualizations
   - 7.2 Map Visualizations
+- **8 Findings and Recommendations**
+- **9 Future Work**
 
 # Python Modules used
 - Pandas
